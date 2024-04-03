@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+    <pedName>mp_f_freemode_01</pedName>
+    <dlcName>sheep_icecream_sundaypost_female</dlcName>
+    <fullDlcName>mp_f_freemode_01_sheep_icecream_sundaypost_female</fullDlcName>
+    <eCharacter>SCR_CHAR_MULTIPLAYER_F</eCharacter>
+    <creatureMetaData>mp_creaturemetadata_f_sheep_icecream_sundaypost_female</creatureMetaData>
+    <pedOutfits>
+    </pedOutfits>
+    <pedComponents>
+    </pedComponents>
+    <pedProps>
+    </pedProps>
+</ShopPedApparel>
