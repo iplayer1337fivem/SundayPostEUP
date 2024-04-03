@@ -2,7 +2,7 @@
 Some working clothes in thew style of Sheep map, and suitable for the job of Lamark
 
 [MLO made of Sheep -](https://github.com/cmgjones1231/Sheep-FreeReleases)
-Vehicle made of Sheep^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vehicle made of Sheep^^^^^^^
 [Job script for QB made of Lamark -](https://github.com/LamaarK/amari-icecreamshop)
 [EUP made of Rottenberger - you are here currently - but for future reference : ](https://github.com/iplayer1337fivem/SundayPostEUP/)
 
