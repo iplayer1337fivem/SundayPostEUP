@@ -3,15 +3,9 @@ Some working clothes in thew style of Sheep map, and suitable for the job of Lam
 
 ![Sunday Post Logo](https://users-cdn.versescripts.net/99f8073f5323184bed29a1c6de00ff12.png)
 
-![FEMALE CLOTHE SNEAK PEAK](https://s12.gifyu.com/images/SVfJt.gif)
+![FEMALE CLOTHE SNEAK PEAK](https://imgpile.com/p/PdIZqTj.gif)
 
 ![MALE CLOTHE SNEAK PEAK](https://gifyu.com/image/SVfJ5.gif)
-
-[![SVfJt.gif](https://s12.gifyu.com/images/SVfJt.gif)](https://gifyu.com/image/SVfJt)
-[![SVfJ5.gif](https://s12.gifyu.com/images/SVfJ5.gif)](https://gifyu.com/image/SVfJ5)
-
-
-
 
 
 [MLO made of Sheep -](https://github.com/cmgjones1231/Sheep-FreeReleases)
