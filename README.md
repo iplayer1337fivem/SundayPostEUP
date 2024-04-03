@@ -3,15 +3,16 @@ Some working clothes in thew style of Sheep map, and suitable for the job of Lam
 
 ![Sunday Post Logo](https://users-cdn.versescripts.net/99f8073f5323184bed29a1c6de00ff12.png)
 
-![FEMALE CLOTHE SNEAK PEAK](https://imgpile.com/p/PdIZqTj.gif)
+![FEMALE CLOTHES SNEAKPEAK](https://i.postimg.cc/QVFnDG4g/Rottenberger-sheep-eup-icecream-Female.gif)
 
-![MALE CLOTHE SNEAK PEAK](https://gifyu.com/image/SVfJ5.gif)
+![MALE CLOTHES SNEAKPEAK](https://i.postimg.cc/sMrn5BVK/Rottenberger-sheep-eup-icecream-Male.gif)
 
 
 [MLO made of Sheep -](https://github.com/cmgjones1231/Sheep-FreeReleases)
 Vehicle made of Sheep^^^^^^^
 
 ![SHEEP MAPPING](https://users-cdn.versescripts.net/0c6acfaf9892140d82e556380b0de4b0.gif)
+**SHEEP DISCORD - PLEASE GO SUPPORT [SHEEP DISCORD](https://discord.gg/EbRHb2sy)
 
 [Job script for QB made of Lamark -](https://github.com/LamaarK/amari-icecreamshop)
 
