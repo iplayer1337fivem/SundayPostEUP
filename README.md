@@ -12,6 +12,7 @@ Vehicle made of Sheep^^^^^^^
 
 
 **Tribute to the Creators and Contributors**
+
 In the vibrant world of the FiveM community, where creativity knows no bounds and innovation thrives, there's a special place reserved for those who envision, build, and nurture. Today, we pay homage to the creators who laid the foundation and the contributors who breathe life into our shared virtual spaces.
 
 To the creators, whose visionary spirit sparked the inception of this community, we owe a debt of gratitude. Your tireless efforts, unwavering dedication, and boundless imagination have paved the way for countless adventures, friendships, and memories. From the first lines of code to the intricate designs, your passion resonates in every corner of our digital realm.
@@ -26,11 +27,13 @@ Here's to the creators, the contributors, and the spirit of collaboration that m
 
 With sincere appreciation,
 
-__Rottenberger __
+**Rottenberger**
+
  [advancedroleplay@fivem.social)](https://fivem.social/@advancedroleplay) - FiveM SociaL 
  - start your server profile or character profile today, its free forever. Free img hosting and changelog in serverlist features <3
  
  [My Roleplay discord](https://discord.com/invite/advancedroleplay) - Upcomming server 03/04-2024
+
  [My GraphicStore](https://discord.gg/6W4jGY8B) - Feel free to join - I specialize into customizing GIFs <3
  
  
