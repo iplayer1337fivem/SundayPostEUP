@@ -3,9 +3,12 @@ Some working clothes in thew style of Sheep map, and suitable for the job of Lam
 
 ![Sunday Post Logo](https://users-cdn.versescripts.net/99f8073f5323184bed29a1c6de00ff12.png)
 
-![FEMALE CLOTHE SNEAK PEAK](https://i.imgur.com/M68Esuz.gif)
+![FEMALE CLOTHE SNEAK PEAK](https://gifyu.com/image/SVfJt)
 
-![MALE CLOTHE SNEAK PEAK](https://i.imgur.com/e9yJavs.gif)
+![MALE CLOTHE SNEAK PEAK](https://gifyu.com/image/SVfJ5)
+
+
+
 
 
 [MLO made of Sheep -](https://github.com/cmgjones1231/Sheep-FreeReleases)
@@ -38,7 +41,7 @@ With sincere appreciation,
 
 **Rottenberger**
 
- [FiveM SociaL)](https://fivem.social/@advancedroleplay)  
+ [FiveM Social](https://fivem.social/@advancedroleplay)  
  - start your server profile or character profile today, its free forever. Free img hosting and changelog in serverlist features <3
  
  [My Roleplay discord](https://discord.com/invite/advancedroleplay) - Upcomming server 03/04-2024
