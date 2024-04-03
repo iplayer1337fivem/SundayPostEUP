@@ -3,12 +3,15 @@ Some working clothes in thew style of Sheep map, and suitable for the job of Lam
 
 [MLO made of Sheep -](https://github.com/cmgjones1231/Sheep-FreeReleases)
 Vehicle made of Sheep^^^^^^^
+
 [Job script for QB made of Lamark -](https://github.com/LamaarK/amari-icecreamshop)
+
+
 [EUP made of Rottenberger - you are here currently - but for future reference : ](https://github.com/iplayer1337fivem/SundayPostEUP/)
 
 
 
-Tribute to the Creators and Contributors
+**Tribute to the Creators and Contributors**
 In the vibrant world of the FiveM community, where creativity knows no bounds and innovation thrives, there's a special place reserved for those who envision, build, and nurture. Today, we pay homage to the creators who laid the foundation and the contributors who breathe life into our shared virtual spaces.
 
 To the creators, whose visionary spirit sparked the inception of this community, we owe a debt of gratitude. Your tireless efforts, unwavering dedication, and boundless imagination have paved the way for countless adventures, friendships, and memories. From the first lines of code to the intricate designs, your passion resonates in every corner of our digital realm.
@@ -23,7 +26,7 @@ Here's to the creators, the contributors, and the spirit of collaboration that m
 
 With sincere appreciation,
 
-Rottenberger 
+__Rottenberger __
  [advancedroleplay@fivem.social)](https://fivem.social/@advancedroleplay) - FiveM SociaL 
  - start your server profile or character profile today, its free forever. Free img hosting and changelog in serverlist features <3
  
