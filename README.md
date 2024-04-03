@@ -7,6 +7,9 @@ Some working clothes in thew style of Sheep map, and suitable for the job of Lam
 
 ![MALE CLOTHE SNEAK PEAK](https://gifyu.com/image/SVfJ5.gif)
 
+[![SVfJt.gif](https://s12.gifyu.com/images/SVfJt.gif)](https://gifyu.com/image/SVfJt)
+[![SVfJ5.gif](https://s12.gifyu.com/images/SVfJ5.gif)](https://gifyu.com/image/SVfJ5)
+
 
 
 
